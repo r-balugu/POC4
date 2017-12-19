@@ -1,0 +1,34 @@
+{
+    "AS_Button_d4bbf96d6fea423f90e16ba178754ceb": {
+        "id": "AS_Button_d4bbf96d6fea423f90e16ba178754ceb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptom",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba3327bf8a124c16ba2137f9ac310d37"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__26dda4c4ab144528a7906b989cf52fbd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//getAllsymptomtype();\nfrmSymptomList.segSymptoms.setData(tabSymptomsData);\nfrmSymptomListPreShow();\n",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___d5f08fa830b44f96a8d84a909d0e8c39",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSymptomList",
+            "formKUID": "700786a1ed1e464fb8ead70ece418432",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

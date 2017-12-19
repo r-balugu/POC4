@@ -1,0 +1,110 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgList": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNextArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblList": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b6c78d5f28ef4ff48db8a0bdc04d569b",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segList",
+    "ide_onRowClick": "AS_Segment_57b65d20415a4fc89bd5f72083663a48",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4b771cc5fcb94faf924e6481f2d499e6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmListScreen",
+    "retainselection": false,
+    "rowTemplateId": "b6c78d5f28ef4ff48db8a0bdc04d569b",
+    "rowcounter": 0,
+    "rowfocusskin": "s6c21071e485425d87ce796fb22cf897",
+    "rowskin": "s5a726e7f14a48e0afc5513780cf54f4",
+    "rowtemplate": "CopyFBox0f1191d883af44c",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd8d127ec0ac4bbd8a8104445edf8968",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e7e7e700",
+    "separatorrequired": true,
+    "separatorthickness": 2,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flexList": "flexList",
+        "imgList": "imgList",
+        "imgNextArrow": "imgNextArrow",
+        "lblDesc": "lblDesc",
+        "lblList": "lblList"
+    },
+    "zindex": 1
+}

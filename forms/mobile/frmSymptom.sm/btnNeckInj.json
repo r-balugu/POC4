@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "49%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa04f369be0b433daa58985233aca4a7",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s801786fcfd54c15b2d6b811ba3c9a2e",
+    "id": "btnNeckInj",
+    "info": null,
+    "isvisible": false,
+    "kuid": "d897786ab48447cd8ebdf6316516e4cb",
+    "name": "kony.ui.Button",
+    "parent": "flxMainBody",
+    "pf": "frmSymptom",
+    "wType": "Button",
+    "zindex": 1
+}

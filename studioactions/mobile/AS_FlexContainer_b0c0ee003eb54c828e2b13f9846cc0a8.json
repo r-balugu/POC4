@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_b0c0ee003eb54c828e2b13f9846cc0a8": {
+        "id": "AS_FlexContainer_b0c0ee003eb54c828e2b13f9846cc0a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConatctAdded",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a172e4e98a054d8691a9174d7115bf01"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___8479e5d8a3ad467d95ab721c6204923f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddContacts",
+            "formKUID": "e01b7f83025047bf81b74a77031443be",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

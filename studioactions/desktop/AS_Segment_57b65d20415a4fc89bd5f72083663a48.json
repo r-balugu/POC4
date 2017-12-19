@@ -1,0 +1,34 @@
+{
+    "AS_Segment_57b65d20415a4fc89bd5f72083663a48": {
+        "id": "AS_Segment_57b65d20415a4fc89bd5f72083663a48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmListScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9fd787e1ea1c469982916194dcbceb75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ac96e7564afa4da68d8a4b83f2c273ff",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "lifeHacksDetailsTablet",
+            "display": "lifeHacksDetailsTablet",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

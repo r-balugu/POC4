@@ -1,0 +1,28 @@
+{
+    "AS_Button_848422a58099483bb3b696214a113947": {
+        "id": "AS_Button_848422a58099483bb3b696214a113947",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "7853ca6289e34f999d61714161aa6c68"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1c18a46c42424cc69acba60b73fa3547",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateLifeHack",
+            "display": "updateLifeHack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

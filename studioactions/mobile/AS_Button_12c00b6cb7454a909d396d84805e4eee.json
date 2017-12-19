@@ -1,0 +1,28 @@
+{
+    "AS_Button_12c00b6cb7454a909d396d84805e4eee": {
+        "id": "AS_Button_12c00b6cb7454a909d396d84805e4eee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptom",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba3327bf8a124c16ba2137f9ac310d37"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9d371f91badf4f6fa9ce7043b09e3033",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickofBody_btn1",
+            "display": "onClickofBody_btn1",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_skin_": "s5e9437902344fbfbd030af916c7e557",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "seaca7f030774dd280cbd1f85c2c94b8",
+    "id": "btnCancel",
+    "ide_onClick": "AS_Button_03891eb527b2446bb254f2a46e94f7f4",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f008c1120654468e802b86423c2f6f80",
+    "name": "kony.ui.Button",
+    "parent": "flxBottomBtn",
+    "pf": "frmSymptomList",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

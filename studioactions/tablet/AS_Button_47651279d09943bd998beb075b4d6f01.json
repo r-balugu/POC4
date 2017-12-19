@@ -1,0 +1,28 @@
+{
+    "AS_Button_47651279d09943bd998beb075b4d6f01": {
+        "id": "AS_Button_47651279d09943bd998beb075b4d6f01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1806cca986b840bc86392d58d23b43b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c505a57404ae4d4eafda37d7b221f641",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createNewLifeHack",
+            "display": "createNewLifeHack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

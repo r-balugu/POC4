@@ -1,0 +1,28 @@
+{
+    "AS_Button_2b4681e3fe5245e28278c853be6ae94d": {
+        "id": "AS_Button_2b4681e3fe5245e28278c853be6ae94d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConatctAdded",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a172e4e98a054d8691a9174d7115bf01"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___26dcd2c681164ed3954a985bb55bb439",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectRole",
+            "formKUID": "116c4bc06d0a4babb21bf7df93300fba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

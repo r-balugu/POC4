@@ -1,0 +1,28 @@
+{
+    "AS_Form_bc8929eaf88d4456b111f6073133e42e": {
+        "id": "AS_Form_bc8929eaf88d4456b111f6073133e42e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSignUp",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6fe7c43d6e7347cda0c4a6f3f3f80798"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ea539f90280c4e63ab034747835bbc0a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mBaasInitLifeHacksMob1",
+            "display": "mBaasInitLifeHacksMob1",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

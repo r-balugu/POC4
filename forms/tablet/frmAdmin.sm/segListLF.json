@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblList": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "404342546b9a444bbbe72f3ba4413534",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segListLF",
+    "ide_onRowClick": "AS_Segment_13d676d3050848a29642bbd7bd279eeb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1add2ff72e274e29b0ed4d2c66c301cb",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody3",
+    "pf": "frmAdmin",
+    "retainselection": false,
+    "rowTemplateId": "404342546b9a444bbbe72f3ba4413534",
+    "rowcounter": 0,
+    "rowfocusskin": "s48d280452154c6eb500f5e41f17eadd",
+    "rowskin": "sfc16fb1a1f5443fa3c19a0e7700a5bb",
+    "rowtemplate": "CopyFBox03a088faf429d49",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd8d127ec0ac4bbd8a8104445edf8968",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 2,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flexList": "flexList",
+        "lblList": "lblList"
+    },
+    "zindex": 1
+}

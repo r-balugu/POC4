@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_adacc8a68406473481d4386968c4476a": {
+        "id": "AS_FlexContainer_adacc8a68406473481d4386968c4476a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListScreen1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c019c601180e46609a925dee2a61d3e4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f17a53a5cc7b44c3804c6fec27d99f0f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mBaasInitLifeHacksMob",
+            "display": "mBaasInitLifeHacksMob",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

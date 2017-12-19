@@ -1,0 +1,120 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblLanguage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "English"
+            }
+        },
+        {
+            "lblLanguage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Español"
+            }
+        },
+        {
+            "lblLanguage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "العربية"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "78.85%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "8.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38.67%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "31ca79747d884c9f9a118ab56824e26b",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segLanguage",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "d49add5ea5754f8c93af8655ba96e5b7",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxLanguageSelect",
+    "pf": "frmSplash",
+    "retainselection": true,
+    "rowTemplateId": "31ca79747d884c9f9a118ab56824e26b",
+    "rowcounter": 2,
+    "rowfocusskin": "s5a4ed8d16f6422cbe9d3d995800cb56",
+    "rowskin": "se0589f6f0e349bb80792ce8e8f9c525",
+    "rowtemplate": "FBox0c0810835b26e4d",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd8d127ec0ac4bbd8a8104445edf8968",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff46",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0004762119ea943": "FlexContainer0004762119ea943",
+        "lblLanguage": "lblLanguage"
+    },
+    "zindex": 1
+}

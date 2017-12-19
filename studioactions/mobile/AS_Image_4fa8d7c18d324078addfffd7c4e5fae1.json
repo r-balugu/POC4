@@ -1,0 +1,34 @@
+{
+    "AS_Image_4fa8d7c18d324078addfffd7c4e5fae1": {
+        "id": "AS_Image_4fa8d7c18d324078addfffd7c4e5fae1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMSOverview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3b8a7558350b4bd8b16174d71e6e5ea0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___900e99baaf93430ebb7f2a2388ee06ff",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "BadSelected",
+            "display": "BadSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Segment_d0b48ef9f863425c8c120ae871981eb7": {
+        "id": "AS_Segment_d0b48ef9f863425c8c120ae871981eb7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAddAllergy",
+            "type": "forms",
+            "platform": "",
+            "KUID": "252311d9957d41dfb959de4740e8a488"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___71f04792e9ce4f19a8334496243de33f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectSegAllergie",
+            "display": "selectSegAllergie",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

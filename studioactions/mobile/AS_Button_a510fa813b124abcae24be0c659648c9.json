@@ -1,0 +1,28 @@
+{
+    "AS_Button_a510fa813b124abcae24be0c659648c9": {
+        "id": "AS_Button_a510fa813b124abcae24be0c659648c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptom",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba3327bf8a124c16ba2137f9ac310d37"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___9b9b83ea93d64fc6a2cc17a8c7f6a2a0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReportOverView",
+            "formKUID": "0bf97a4e6261478fb9010f80515bec92",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

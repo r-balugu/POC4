@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0035a405a984ba582fabbe830f5b7a3",
+    "_text_": "PAINT THE TOPS OF KEYS WITH NAIL POLISH TO DIFFERENTIATE WITH THEM",
+    "_top_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblList",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d1ab5b480df5430d84a5998ccc7df690",
+    "name": "kony.ui.Label",
+    "parent": "flexList",
+    "pf": "frmListScreen",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

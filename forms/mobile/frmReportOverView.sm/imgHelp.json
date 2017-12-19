@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "sa52f65a275241379e25aa5e00d871df",
+    "_src_": "helpn_icn.png",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmReportOverView",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgHelp",
+    "imagescalemode": 1,
+    "imagewhenfailed": "helpn_icn.png",
+    "imagewhiledownloading": "helpn_icn.png",
+    "info": null,
+    "invokedProperty": "imageWhenFailed",
+    "isvisible": true,
+    "kuid": "546aaabdeb364097a6358c8849419050",
+    "name": "kony.ui.Image2",
+    "parent": "flxBody",
+    "pf": "frmReportOverView",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

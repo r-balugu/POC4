@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "seedb0837a0b4ad3bfd3c01f80c29922",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxHeader",
+        "flxOne",
+        "flxSepratorLine1",
+        "CopyflxOne0093ed34ff71b41",
+        "CopyflxSepratorLine02efe9630084947",
+        "CopyflxOne0d167a17009bd43",
+        "CopyflxSepratorLine09b63159f539c40",
+        "CopyflxOne00abb873282244b",
+        "CopyflxSepratorLine096e8e128b8fb45",
+        "CopyflxOne0a003101f1b1247",
+        "CopyflxSepratorLine0ef4aecbd97ab4c",
+        "flxFemaleMenstrualCycle",
+        "flxSepratorLineFemale",
+        "CopyflxOne0b9e559aa0e8243",
+        "CopyflxSepratorLine0a1390486aeb34f",
+        "flxBottomBtn"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMain",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dcf8b26c59a14dc281ed37f13cceb4ea",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmSymptomsOverview",
+    "pf": "frmSymptomsOverview",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

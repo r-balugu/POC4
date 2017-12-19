@@ -1,0 +1,34 @@
+{
+    "AS_Segment_179ea50b2b324aa49e8c7753a75bf1cc": {
+        "id": "AS_Segment_179ea50b2b324aa49e8c7753a75bf1cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2e8dd8c07e3644a2a0cd5bdac4c502aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9fa3fd7f92994f6ebe5f80ef5e3ac712",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeLifeHacks",
+            "display": "removeLifeHacks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

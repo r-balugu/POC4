@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s801786fcfd54c15b2d6b811ba3c9a2e",
+    "_text_": "Select Body Part",
+    "_width_": {
+        "type": "string",
+        "value": "48%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s74c6b30f6644e099fb4fad9ba7ca0f8",
+    "id": "Button051e101db7f344a",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "766f0ca9c91f4fa8b9925f39c1fbafa4",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxSelOption",
+    "pf": "frmSymptom",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

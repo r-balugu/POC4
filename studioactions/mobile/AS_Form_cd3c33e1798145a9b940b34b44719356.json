@@ -1,0 +1,28 @@
+{
+    "AS_Form_cd3c33e1798145a9b940b34b44719356": {
+        "id": "AS_Form_cd3c33e1798145a9b940b34b44719356",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cab230e2b01842258eae4f20e1e30b85"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d15a7de0eb0041a49266a4b6904e7b97",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mBaasInitLifeHacksMob1",
+            "display": "mBaasInitLifeHacksMob1",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_f6264d85b8814deeaccd2676561556d4": {
+        "id": "AS_FlexContainer_f6264d85b8814deeaccd2676561556d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSignUp",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6fe7c43d6e7347cda0c4a6f3f3f80798"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___aea4060f33774d20be1e3a42da10ac46",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectRole",
+            "formKUID": "116c4bc06d0a4babb21bf7df93300fba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

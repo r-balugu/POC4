@@ -1,0 +1,28 @@
+{
+    "AS_Button_762c4ea7bbae48918534ed1101dc1b27": {
+        "id": "AS_Button_762c4ea7bbae48918534ed1101dc1b27",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectRole",
+            "type": "forms",
+            "platform": "",
+            "KUID": "116c4bc06d0a4babb21bf7df93300fba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7b2ade4f6123423daf374732442bc0ed",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateSelectContacts",
+            "display": "animateSelectContacts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s942e3d0795343a18f7fd8d8178ca759",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Copylblhowdoyoufeel03a5ea02e57cd45",
+        "sliderSleepQualityValue",
+        "CopyflxAvg0de839c8f0a2e4f",
+        "Copylbl03c78be53b8d948",
+        "Copylbl022ac15e838dd48",
+        "CopyflxBad0f542ff4be1dd47",
+        "CopyflxGood00be47730f7e04b"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxWayUfeel0a234f10f09f546",
+    "info": null,
+    "isvisible": true,
+    "kuid": "57247402991d452987edec56f400ab68",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollBody",
+    "pf": "frmDailyTracker",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

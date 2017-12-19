@@ -1,0 +1,31 @@
+{
+    "AS_TextField_a15fd52ede194fe38d71abcb316fd393": {
+        "id": "AS_TextField_a15fd52ede194fe38d71abcb316fd393",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAddAllergy",
+            "type": "forms",
+            "platform": "",
+            "KUID": "252311d9957d41dfb959de4740e8a488"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___629c0366fa6b41a9b6ef51881284a816",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addNewAllergie",
+            "display": "addNewAllergie",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

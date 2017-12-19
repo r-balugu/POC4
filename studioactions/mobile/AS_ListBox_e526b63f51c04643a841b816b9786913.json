@@ -1,0 +1,28 @@
+{
+    "AS_ListBox_e526b63f51c04643a841b816b9786913": {
+        "id": "AS_ListBox_e526b63f51c04643a841b816b9786913",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e0519aba31b6464f9e5178365f693e50"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0a28dbbb19b1482fbd0ff61902701507",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectUserMob",
+            "display": "selectUserMob",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

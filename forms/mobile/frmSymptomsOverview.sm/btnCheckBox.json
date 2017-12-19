@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "se6fee5cda4047c5ba4be4ef01960d81",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "16"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb2124cc9c8c4e89a9aa980c7440eca0",
+    "id": "btnCheckBox",
+    "ide_onClick": "AS_Button_f8b70ea7681840bab75251ed6c407d4c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a3f200671cbe4fbb99d846f1fe269543",
+    "name": "kony.ui.Button",
+    "parent": "flxFemaleMenstrualCycle",
+    "pf": "frmSymptomsOverview",
+    "wType": "Button",
+    "zindex": 1
+}

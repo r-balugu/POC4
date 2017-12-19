@@ -1,0 +1,21 @@
+{
+    "AS_Button_60ff6e6e632e45ceb33ffe7c67f5a1bc": {
+        "id": "AS_Button_60ff6e6e632e45ceb33ffe7c67f5a1bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b6faf974e9fc4b2fbb5cfb9422781699",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateManageUserLifeHacks",
+            "display": "navigateManageUserLifeHacks",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

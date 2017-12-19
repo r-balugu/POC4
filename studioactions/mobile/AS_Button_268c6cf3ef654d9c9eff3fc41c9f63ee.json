@@ -1,0 +1,21 @@
+{
+    "AS_Button_268c6cf3ef654d9c9eff3fc41c9f63ee": {
+        "id": "AS_Button_268c6cf3ef654d9c9eff3fc41c9f63ee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b53160f5576c4808ad87312082c36c9f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSave_frmDailyTracker",
+            "display": "onClickSave_frmDailyTracker",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

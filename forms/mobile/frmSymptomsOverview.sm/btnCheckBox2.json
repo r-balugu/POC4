@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "se6fee5cda4047c5ba4be4ef01960d81",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "16"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb2124cc9c8c4e89a9aa980c7440eca0",
+    "id": "btnCheckBox2",
+    "ide_onClick": "AS_Button_39f767e30fbe4689988019d1857ca420",
+    "info": null,
+    "isvisible": true,
+    "kuid": "785054b5880945a08c1f46f37d8177af",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxOne0b9e559aa0e8243",
+    "pf": "frmSymptomsOverview",
+    "wType": "Button",
+    "zindex": 1
+}

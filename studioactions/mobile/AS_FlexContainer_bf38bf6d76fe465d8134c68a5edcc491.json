@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_bf38bf6d76fe465d8134c68a5edcc491": {
+        "id": "AS_FlexContainer_bf38bf6d76fe465d8134c68a5edcc491",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a316e559664e4a0f96f492c80979aaa1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Hamburger",
+            "display": "Hamburger",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

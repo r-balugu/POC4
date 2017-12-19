@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s895f533af3d4fd99f54acb3405ca606",
+    "_text_": "How do you know ehich key is for which lock? Enough with the confusion. Paint each key with a different colour nail polish! #MSLifeHacks",
+    "_top_": {
+        "type": "string",
+        "value": "47%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblDesc",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a3271aec15be4ed29a0d422d9d521fa8",
+    "name": "kony.ui.Label",
+    "parent": "flxBody2",
+    "pf": "frmListScreen",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

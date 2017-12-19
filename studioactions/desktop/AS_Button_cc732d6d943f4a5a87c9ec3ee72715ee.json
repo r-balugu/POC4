@@ -1,0 +1,24 @@
+{
+    "AS_Button_cc732d6d943f4a5a87c9ec3ee72715ee": {
+        "id": "AS_Button_cc732d6d943f4a5a87c9ec3ee72715ee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9fd787e1ea1c469982916194dcbceb75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ceff0ec34fa44889a237e936e65e31ac",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmListScreen.flexEdit.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

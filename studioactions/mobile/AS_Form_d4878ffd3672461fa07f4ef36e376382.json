@@ -1,0 +1,27 @@
+{
+    "AS_Form_d4878ffd3672461fa07f4ef36e376382": {
+        "id": "AS_Form_d4878ffd3672461fa07f4ef36e376382",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptomsOverview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5d0ed7abc80d425d9dfd4160934318ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f29f3ca3484d4139a171264ad10f7310",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmSymptomsOverview_PreShow",
+            "display": "frmSymptomsOverview_PreShow",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": false,
+            "source": "module"
+        }]
+    }
+}

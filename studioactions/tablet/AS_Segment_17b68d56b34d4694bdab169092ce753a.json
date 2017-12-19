@@ -1,0 +1,27 @@
+{
+    "AS_Segment_17b68d56b34d4694bdab169092ce753a": {
+        "id": "AS_Segment_17b68d56b34d4694bdab169092ce753a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_65471a20be364ffab3431739d92d868b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectLifeHacks",
+            "display": "selectLifeHacks",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

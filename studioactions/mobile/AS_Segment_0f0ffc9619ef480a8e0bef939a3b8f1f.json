@@ -1,0 +1,34 @@
+{
+    "AS_Segment_0f0ffc9619ef480a8e0bef939a3b8f1f": {
+        "id": "AS_Segment_0f0ffc9619ef480a8e0bef939a3b8f1f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSelectRole",
+            "type": "forms",
+            "platform": "",
+            "KUID": "116c4bc06d0a4babb21bf7df93300fba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cdd85e48f28c4a769076f45a1a92f768",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSelectContactOption",
+            "display": "onSelectContactOption",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

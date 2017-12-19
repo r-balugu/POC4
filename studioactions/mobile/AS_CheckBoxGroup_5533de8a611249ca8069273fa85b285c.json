@@ -1,0 +1,28 @@
+{
+    "AS_CheckBoxGroup_5533de8a611249ca8069273fa85b285c": {
+        "id": "AS_CheckBoxGroup_5533de8a611249ca8069273fa85b285c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptomsOverview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5d0ed7abc80d425d9dfd4160934318ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1794a9bafdf74c3ba17d6d0d6485648d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "checkDiscussSymptoms",
+            "display": "checkDiscussSymptoms",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "AS_AppEvents_cb725553ac674291ba6780be21ce9502": {
+        "id": "AS_AppEvents_cb725553ac674291ba6780be21ce9502",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fb46ce97153442799d402b2f222b6f74",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mBaasInitLifeHacksMob",
+            "display": "mBaasInitLifeHacksMob",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

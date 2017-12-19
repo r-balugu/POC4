@@ -1,0 +1,144 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0199b252bf9a441": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "medical_icn.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Medications"
+            }
+        },
+        {
+            "Image0199b252bf9a441": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "appointment_icn.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appointments"
+            }
+        },
+        {
+            "Image0199b252bf9a441": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "tracker_icn.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Daily Trackers"
+            }
+        },
+        {
+            "Image0199b252bf9a441": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "excercise_icn.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Exercises"
+            }
+        },
+        {
+            "Image0199b252bf9a441": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "specialist_icn.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Specialists"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "73.91%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "1a057718cd8a4dcbacc78bfcca254d29",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "3c7a15cfef594e0aa8f92b78f917020b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxScrollHamburger",
+    "pf": "frmAdmin",
+    "retainselection": false,
+    "rowTemplateId": "1a057718cd8a4dcbacc78bfcca254d29",
+    "rowcounter": 4,
+    "rowfocusskin": "s48d280452154c6eb500f5e41f17eadd",
+    "rowskin": "sc362a44cb504244ad2ded774f83bca5",
+    "rowtemplate": "CopyFBox0ee4c0f67730342",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd8d127ec0ac4bbd8a8104445edf8968",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff46",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer00625bb7649bb44": "FlexContainer00625bb7649bb44",
+        "Image0199b252bf9a441": "Image0199b252bf9a441",
+        "lblOption": "lblOption"
+    },
+    "zindex": 1
+}

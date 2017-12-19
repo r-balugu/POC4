@@ -1,0 +1,28 @@
+{
+    "AS_Button_ca1a06b8d64e47b4a5d845f9aea9bda4": {
+        "id": "AS_Button_ca1a06b8d64e47b4a5d845f9aea9bda4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTremAndCond",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0e02425c9ae54b68b09690d3c627aec1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___045fe56166db487b8f3d8ddecd658be4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navToSignupForm",
+            "display": "navToSignupForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

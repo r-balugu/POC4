@@ -1,0 +1,28 @@
+{
+    "AS_Button_3813a5a909b247e7b9f3829e36405b0d": {
+        "id": "AS_Button_3813a5a909b247e7b9f3829e36405b0d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDailyTracker",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ede8a7c49c114c47bd376da762e09232"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___75bcc974bc984ce68daef50b07573f98",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPreviousForm",
+            "display": "showPreviousForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Slider_3c6457246fa34bb2ba9c175b64c6a7af": {
+        "id": "AS_Slider_3c6457246fa34bb2ba9c175b64c6a7af",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmDailyTracker",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ede8a7c49c114c47bd376da762e09232"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___83330d366e2d4418b84cb170b1ee8850",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sliderMemoryFunc",
+            "display": "sliderMemoryFunc",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

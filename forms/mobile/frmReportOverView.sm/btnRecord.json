@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s801786fcfd54c15b2d6b811ba3c9a2e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s801786fcfd54c15b2d6b811ba3c9a2e",
+    "id": "btnRecord",
+    "ide_onClick": "AS_Button_fe04da28a8ee4deb89b2ceafbe68f592",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "dd2930a189b84ca8a1d312cebf2e53fc",
+    "name": "kony.ui.Button",
+    "parent": "flxBtnRecord",
+    "pf": "frmReportOverView",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "sa52f65a275241379e25aa5e00d871df",
+    "_src_": "helpn_icn.png",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmMSStatus",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image017659023341b49",
+    "imagescalemode": 1,
+    "imagewhenfailed": "helpn_icn.png",
+    "imagewhiledownloading": "helpn_icn.png",
+    "info": null,
+    "invokedProperty": "imageWhenFailed",
+    "isvisible": false,
+    "kuid": "1c51dbfb53a44124b736f7e380a0dd3e",
+    "name": "kony.ui.Image2",
+    "parent": "flxBody",
+    "pf": "frmMSStatus",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

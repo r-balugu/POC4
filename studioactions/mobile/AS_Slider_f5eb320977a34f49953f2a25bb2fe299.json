@@ -1,0 +1,31 @@
+{
+    "AS_Slider_f5eb320977a34f49953f2a25bb2fe299": {
+        "id": "AS_Slider_f5eb320977a34f49953f2a25bb2fe299",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmSymptomList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "700786a1ed1e464fb8ead70ece418432"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9c0c0c74f5a4403fbc38b54bb1e53bb1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sliderImpactFeelFunc",
+            "display": "sliderImpactFeelFunc",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83f690c2f7e492797a26414793c3b25",
+    "_text_": "LifeHacks Admin",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s83f690c2f7e492797a26414793c3b25",
+    "id": "btnAdmin",
+    "ide_onClick": "AS_Button_0138cb5b60aa403a8572cc29742b03a5",
+    "info": null,
+    "isvisible": true,
+    "kuid": "febb65d09cfc4b0dbe2216509b82f74a",
+    "name": "kony.ui.Button",
+    "parent": "flexAdmin",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 1
+}

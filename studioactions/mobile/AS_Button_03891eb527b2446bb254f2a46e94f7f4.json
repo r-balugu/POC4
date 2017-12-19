@@ -1,0 +1,28 @@
+{
+    "AS_Button_03891eb527b2446bb254f2a46e94f7f4": {
+        "id": "AS_Button_03891eb527b2446bb254f2a46e94f7f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptomList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "700786a1ed1e464fb8ead70ece418432"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___563f5b6a586246d18ac6ce80c2d3a244",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSymptom",
+            "formKUID": "ba3327bf8a124c16ba2137f9ac310d37",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

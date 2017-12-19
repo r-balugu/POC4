@@ -1,0 +1,16 @@
+{
+  "background_image": "averagen_icn.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffff00",
+  "font_name": "Helvetica",
+  "font_size": 148,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s88e4d9d92bf45b4b4bd08cc2d8a4bb6",
+  "wType": "Button"
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_0d53c0c338d34f488901a63bb2d6c922": {
+        "id": "AS_Button_0d53c0c338d34f488901a63bb2d6c922",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_4f362ce361024e52a0c56afec78f0759",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateLifeHacks",
+            "display": "navigateLifeHacks",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

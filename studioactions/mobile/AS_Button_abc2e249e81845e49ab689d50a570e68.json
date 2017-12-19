@@ -1,0 +1,28 @@
+{
+    "AS_Button_abc2e249e81845e49ab689d50a570e68": {
+        "id": "AS_Button_abc2e249e81845e49ab689d50a570e68",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMSStatus",
+            "type": "forms",
+            "platform": null,
+            "KUID": "95528ba502a94faab5ffa689e94d7c59"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___037e9fcff9cc4702990aa1dcabe77ed4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReportOverView",
+            "formKUID": "0bf97a4e6261478fb9010f80515bec92",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

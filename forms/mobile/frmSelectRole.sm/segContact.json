@@ -1,0 +1,127 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgContact": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "addcontact.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "importfrmcontacts",
+                "text": "Import from contacts"
+            }
+        },
+        {
+            "imgContact": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "importcontact.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "createmewcontact",
+                "text": "Create new contact"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "46.84%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "32.79%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "78.13%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "01",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "ad86bdd37a204aec9172b0b897b8d70a",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segContact",
+    "ide_onRowClick": "AS_Segment_0f0ffc9619ef480a8e0bef939a3b8f1f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "52dc21b2f6344706990ac21f7a78df5d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContact",
+    "pf": "frmSelectRole",
+    "retainselection": false,
+    "rowTemplateId": "ad86bdd37a204aec9172b0b897b8d70a",
+    "rowcounter": 1,
+    "rowfocusskin": "s48d280452154c6eb500f5e41f17eadd",
+    "rowskin": "se0589f6f0e349bb80792ce8e8f9c525",
+    "rowtemplate": "CopyFBox06d17178365574d",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sd8d127ec0ac4bbd8a8104445edf8968",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff46",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0004762119ea943": "FlexContainer0004762119ea943",
+        "imgContact": "imgContact",
+        "lblOption": "lblOption"
+    },
+    "zindex": 1
+}

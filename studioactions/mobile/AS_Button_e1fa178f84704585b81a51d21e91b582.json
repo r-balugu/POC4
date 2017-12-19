@@ -1,0 +1,28 @@
+{
+    "AS_Button_e1fa178f84704585b81a51d21e91b582": {
+        "id": "AS_Button_e1fa178f84704585b81a51d21e91b582",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddContacts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e01b7f83025047bf81b74a77031443be"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eb496225dfd240639f0dddc1284b834a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveContacts",
+            "display": "saveContacts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

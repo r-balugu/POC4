@@ -1,0 +1,28 @@
+{
+    "AS_Button_0138cb5b60aa403a8572cc29742b03a5": {
+        "id": "AS_Button_0138cb5b60aa403a8572cc29742b03a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7853ca6289e34f999d61714161aa6c68"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___620ca9b27a414bcdbddccf7b7f5d52d6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateLifeHacks",
+            "display": "navigateLifeHacks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

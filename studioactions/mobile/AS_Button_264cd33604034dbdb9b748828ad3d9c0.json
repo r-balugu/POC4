@@ -1,0 +1,24 @@
+{
+    "AS_Button_264cd33604034dbdb9b748828ad3d9c0": {
+        "id": "AS_Button_264cd33604034dbdb9b748828ad3d9c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMSStatus",
+            "type": "forms",
+            "platform": "",
+            "KUID": "95528ba502a94faab5ffa689e94d7c59"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ef335b99e5524870926f319d78f41f26",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Touched\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

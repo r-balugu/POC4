@@ -1,0 +1,28 @@
+{
+    "AS_Button_f8b70ea7681840bab75251ed6c407d4c": {
+        "id": "AS_Button_f8b70ea7681840bab75251ed6c407d4c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSymptomsOverview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5d0ed7abc80d425d9dfd4160934318ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7855d482dc814ac0872bcbb6091b1bf9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickCheckBoxButton1",
+            "display": "onClickCheckBoxButton1",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

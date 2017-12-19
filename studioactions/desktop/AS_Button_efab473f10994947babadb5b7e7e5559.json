@@ -1,0 +1,28 @@
+{
+    "AS_Button_efab473f10994947babadb5b7e7e5559": {
+        "id": "AS_Button_efab473f10994947babadb5b7e7e5559",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9fd787e1ea1c469982916194dcbceb75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___818c97bfb1db4efd8c167b1b43380acc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onclickEdit",
+            "display": "onclickEdit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

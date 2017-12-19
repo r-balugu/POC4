@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scae475984244f959d3715586f16e736",
+    "_text_": "Next",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s205c28f0e13402ca5b115220044bce4",
+    "id": "btnNext",
+    "ide_onClick": "AS_Button_640cb79a661549f79e479c3b117e29ca",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "bf1775b4db5a40e4a9cce7674ecc45aa",
+    "name": "kony.ui.Button",
+    "parent": "flxBottomBtn",
+    "pf": "frmSymptomsOverview",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

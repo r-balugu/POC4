@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "31%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8b57771ccbf4bbeb23b20993409f2bb",
+    "_text_": "Selected LifeHacks",
+    "_width_": {
+        "type": "string",
+        "value": "31%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblSelected",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c93d6ef179254298ac374c2b07f2463c",
+    "name": "kony.ui.Label",
+    "parent": "flexSubHeaders",
+    "pf": "frmAdmin",
+    "tooltip": "",
+    "wType": "Label"
+}

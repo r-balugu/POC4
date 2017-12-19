@@ -1,0 +1,32 @@
+{
+    "AS_Button_511a1237739f48f887793524f52e89bd": {
+        "id": "AS_Button_511a1237739f48f887793524f52e89bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMSStatus",
+            "type": "forms",
+            "platform": "",
+            "KUID": "95528ba502a94faab5ffa689e94d7c59"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aeb35d2b75884ec3ad81428a3ccda5fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flag_MSToday = \"Average\";",
+            "parentId": null
+        }, {
+            "id": "INVOKE_FUNCTION___466f0055d0844720a1b83f05179c415d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_MSOverviewImage",
+            "display": "onClick_MSOverviewImage",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Segment_8127657372094da6bcad72f4cbf40fab": {
+        "id": "AS_Segment_8127657372094da6bcad72f4cbf40fab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmContactDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b7d29102f4234f79bc88a89ae3e008bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___32ae5914eb3d4e98a019de5f58ae3729",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dialNumber",
+            "display": "dialNumber",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

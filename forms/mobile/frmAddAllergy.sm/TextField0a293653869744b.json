@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter your allergie..",
+    "_skin_": "sc81cf9ede4f4680adb8fcca04d5870d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s9124fe942bb407cbcddae3b29b31364",
+    "id": "TextField0a293653869744b",
+    "ide_onDone": "AS_TextField_a15fd52ede194fe38d71abcb316fd393",
+    "info": null,
+    "iphone": {
+        "ide_onEndEditing": "AS_TextField_6631302bbb934b32aab2f93c56e34919"
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d98d682b386f4595851f7ed4fedc4c8c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "FlexContainer0a0fd56318e6144",
+    "pf": "frmAddAllergy",
+    "placeholderi18n": "enterallergie",
+    "placeholderskin": "s36142e2605f46b3923a339c50279690",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

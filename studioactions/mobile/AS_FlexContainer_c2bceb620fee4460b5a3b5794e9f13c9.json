@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_c2bceb620fee4460b5a3b5794e9f13c9": {
+        "id": "AS_FlexContainer_c2bceb620fee4460b5a3b5794e9f13c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImportedContacts",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb2f692a58354e358468a52435b72fa6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___9a254bf1f2e04af19fdb65d31f24e69d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectRole",
+            "formKUID": "116c4bc06d0a4babb21bf7df93300fba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

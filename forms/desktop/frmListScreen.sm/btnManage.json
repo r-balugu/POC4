@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83f690c2f7e492797a26414793c3b25",
+    "_text_": "Manage User LifeHacks",
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s83f690c2f7e492797a26414793c3b25",
+    "id": "btnManage",
+    "ide_onClick": "AS_Button_19411664b91c41ec8dfef6d9cc6bb2fe",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0a15e9bc91164bb2a3771b069798f2d0",
+    "name": "kony.ui.Button",
+    "parent": "flexManage",
+    "pf": "frmListScreen",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_a2264aa101cc479b9ecab5592b9670b3": {
+        "id": "AS_Button_a2264aa101cc479b9ecab5592b9670b3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_daba3259ee384e5aa355399d4d53b9ce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateLifeHack",
+            "display": "updateLifeHack",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

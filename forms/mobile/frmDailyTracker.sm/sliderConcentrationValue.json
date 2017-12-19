@@ -1,0 +1,90 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 10,
+    "_min_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 1,
+    "_thickness_": 1,
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "android": {
+        "focusThumbImage": "slider_android.png",
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "40%"
+    },
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "focusthumbimage": "slider_ios7.png",
+    "id": "sliderConcentrationValue",
+    "ide_onSelection": "AS_Slider_b0b639d069df400aa13c500b8faac602",
+    "ide_onSlide": "AS_Slider_903a244db13a4598b49e8eb1d0dd4587",
+    "imgwt": 99,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "focusThumbImage": "slider_ios7.png",
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "isvisible": true,
+    "kuid": "9f00f132b57f40f5b182927394b04e3a",
+    "leftskin": "sf102b1b40a14769a829d20af62ac4c0",
+    "maxlabel": "10",
+    "minlabel": "0",
+    "name": "kony.ui.Slider",
+    "noofsteps": 10,
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "flxWayUfeel",
+    "pf": "frmDailyTracker",
+    "rightskin": "s926d9461da74073b04e2a928e0e431f",
+    "selectedvalue": 5,
+    "stepwidth": 4.7,
+    "tabrcandroid": {
+        "thumbImage": "slider_android.png"
+    },
+    "thumbimage": "slider_ios7.png",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd8fc32fd7f640819efb602d523c94d7",
+    "_text_": "Selected: User 1",
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblSelectedUser",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a7ea1ca2182b4e1e814ad7285f807fb5",
+    "name": "kony.ui.Label",
+    "parent": "flxHeader",
+    "pf": "frmAdmin",
+    "tooltip": "",
+    "wType": "Label"
+}
